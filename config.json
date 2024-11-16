@@ -1,6 +1,7 @@
 {
     "title":"U-FO",
-    "subTitle":"花有重开日，人无再少年。",
+    "subTitle":"",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
 }
